@@ -1,0 +1,5 @@
+C:\Users\Halima\Documents\GitHub\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose.Src\bin\Debug\GildedRose.Src.dll
+C:\Users\Halima\Documents\GitHub\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose.Src\bin\Debug\GildedRose.Src.pdb
+C:\Users\Halima\Documents\GitHub\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose.Src\obj\Debug\GildedRose.Src.csprojResolveAssemblyReference.cache
+C:\Users\Halima\Documents\GitHub\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose.Src\obj\Debug\GildedRose.Src.dll
+C:\Users\Halima\Documents\GitHub\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose.Src\obj\Debug\GildedRose.Src.pdb
